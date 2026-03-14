@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/yo",
+      "permanent": false
+    }
+  ]
+}
